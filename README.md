@@ -7,7 +7,7 @@ ES6 Sniffer is a simple CLI to identify installed Node packages that may contain
 Simply run:
 
 ```bash
-pip install .
+pip install pip install git+https://github.com/hancush/python-es6-sniffer
 ```
 
 ## Usage
